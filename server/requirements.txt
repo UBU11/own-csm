@@ -5,3 +5,4 @@ transformers
 accelerate
 jinja2
 python-multipart
+sarvamai
